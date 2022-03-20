@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Coda-Regular
+font link: https://fonts.google.com/specimen/Coda
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+
+
+icon designer: Javier Cabezas
+icon designer link: /Xavi Caps
+        
+{"bg":"#8F532C","icon":"#001C0F","font":"#ffffff","slogan":"#ffffff"}
+      
