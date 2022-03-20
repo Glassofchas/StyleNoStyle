@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Style No Style logo" src="./assets/vector/default-monochrome.svg" class="w-1 h-1">
-    <HelloWorld msg="Style No Style!"/>
+    <img alt="Style No Style logo" src="./assets/vector/logo.svg" class="w-1 h-1">
+    <HelloWorld msg="Style No Style!!"/>
   </div>
 </template>
 
